@@ -1,0 +1,4562 @@
+[
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000001",
+   "County": "Hartlepool",
+   "Cases": 411
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000001",
+   "County": "Hartlepool",
+   "Cases": 227.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000002",
+   "County": "Middlesbrough",
+   "Cases": 243.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000002",
+   "County": "Middlesbrough",
+   "Cases": 209.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000003",
+   "County": "Redcar and Cleveland",
+   "Cases": 125.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000003",
+   "County": "Redcar and Cleveland",
+   "Cases": 145.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000004",
+   "County": "Stockton-on-Tees",
+   "Cases": 230.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000004",
+   "County": "Stockton-on-Tees",
+   "Cases": 168.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000005",
+   "County": "Darlington",
+   "Cases": 248.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000005",
+   "County": "Darlington",
+   "Cases": 194.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000006",
+   "County": "Halton",
+   "Cases": 207.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000006",
+   "County": "Halton",
+   "Cases": 127.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000007",
+   "County": "Warrington",
+   "Cases": 280.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000007",
+   "County": "Warrington",
+   "Cases": 140
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000008",
+   "County": "Blackburn with Darwen",
+   "Cases": 346.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000008",
+   "County": "Blackburn with Darwen",
+   "Cases": 243.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000009",
+   "County": "Blackpool",
+   "Cases": 174.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000009",
+   "County": "Blackpool",
+   "Cases": 163.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000010",
+   "County": "Kingston upon Hull, City of",
+   "Cases": 261
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000010",
+   "County": "Kingston upon Hull, City of",
+   "Cases": 197.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000011",
+   "County": "East Riding of Yorkshire",
+   "Cases": 178.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000011",
+   "County": "East Riding of Yorkshire",
+   "Cases": 125.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000012",
+   "County": "North East Lincolnshire",
+   "Cases": 110.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000012",
+   "County": "North East Lincolnshire",
+   "Cases": 116.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000013",
+   "County": "North Lincolnshire",
+   "Cases": 177.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000013",
+   "County": "North Lincolnshire",
+   "Cases": 164.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000014",
+   "County": "York",
+   "Cases": 240.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000014",
+   "County": "York",
+   "Cases": 62.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000015",
+   "County": "Derby",
+   "Cases": 262.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000015",
+   "County": "Derby",
+   "Cases": 186.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000016",
+   "County": "Leicester",
+   "Cases": 304.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000016",
+   "County": "Leicester",
+   "Cases": 256.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000017",
+   "County": "Rutland",
+   "Cases": 182.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000017",
+   "County": "Rutland",
+   "Cases": 135.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000018",
+   "County": "Nottingham",
+   "Cases": 213
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000018",
+   "County": "Nottingham",
+   "Cases": 160.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000019",
+   "County": "Herefordshire, County of",
+   "Cases": 195
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000019",
+   "County": "Herefordshire, County of",
+   "Cases": 46.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000020",
+   "County": "Telford and Wrekin",
+   "Cases": 160.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000020",
+   "County": "Telford and Wrekin",
+   "Cases": 134.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000021",
+   "County": "Stoke-on-Trent",
+   "Cases": 281.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000021",
+   "County": "Stoke-on-Trent",
+   "Cases": 298
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000022",
+   "County": "Bath and North East Somerset",
+   "Cases": 158.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000022",
+   "County": "Bath and North East Somerset",
+   "Cases": 90
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000023",
+   "County": "Bristol, City of",
+   "Cases": 189.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000023",
+   "County": "Bristol, City of",
+   "Cases": 116.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000024",
+   "County": "North Somerset",
+   "Cases": 215.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000024",
+   "County": "North Somerset",
+   "Cases": 126
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000025",
+   "County": "South Gloucestershire",
+   "Cases": 185.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000025",
+   "County": "South Gloucestershire",
+   "Cases": 153.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000026",
+   "County": "Plymouth",
+   "Cases": 184.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000026",
+   "County": "Plymouth",
+   "Cases": 68.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000027",
+   "County": "Torbay",
+   "Cases": 66
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000027",
+   "County": "Torbay",
+   "Cases": 36
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000030",
+   "County": "Swindon",
+   "Cases": 251.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000030",
+   "County": "Swindon",
+   "Cases": 112.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000031",
+   "County": "Peterborough",
+   "Cases": 403.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000031",
+   "County": "Peterborough",
+   "Cases": 263
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000032",
+   "County": "Luton",
+   "Cases": 554.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000032",
+   "County": "Luton",
+   "Cases": 301.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000033",
+   "County": "Southend-on-Sea",
+   "Cases": 1114.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000033",
+   "County": "Southend-on-Sea",
+   "Cases": 330.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000034",
+   "County": "Thurrock",
+   "Cases": 1339.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000034",
+   "County": "Thurrock",
+   "Cases": 435.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000035",
+   "County": "Medway",
+   "Cases": 973.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000035",
+   "County": "Medway",
+   "Cases": 639.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000036",
+   "County": "Bracknell Forest",
+   "Cases": 568.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000036",
+   "County": "Bracknell Forest",
+   "Cases": 200.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000037",
+   "County": "West Berkshire",
+   "Cases": 335.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000037",
+   "County": "West Berkshire",
+   "Cases": 135.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000038",
+   "County": "Reading",
+   "Cases": 452.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000038",
+   "County": "Reading",
+   "Cases": 214.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000039",
+   "County": "Slough",
+   "Cases": 646.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000039",
+   "County": "Slough",
+   "Cases": 325
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000040",
+   "County": "Windsor and Maidenhead",
+   "Cases": 509.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000040",
+   "County": "Windsor and Maidenhead",
+   "Cases": 116.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000041",
+   "County": "Wokingham",
+   "Cases": 413.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000041",
+   "County": "Wokingham",
+   "Cases": 167.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000042",
+   "County": "Milton Keynes",
+   "Cases": 869.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000042",
+   "County": "Milton Keynes",
+   "Cases": 266.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000043",
+   "County": "Brighton and Hove",
+   "Cases": 314.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000043",
+   "County": "Brighton and Hove",
+   "Cases": 81.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000044",
+   "County": "Portsmouth",
+   "Cases": 436.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000044",
+   "County": "Portsmouth",
+   "Cases": 193.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000045",
+   "County": "Southampton",
+   "Cases": 338.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000045",
+   "County": "Southampton",
+   "Cases": 83.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000046",
+   "County": "Isle of Wight",
+   "Cases": 227.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000046",
+   "County": "Isle of Wight",
+   "Cases": 14.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000047",
+   "County": "County Durham",
+   "Cases": 265.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000047",
+   "County": "County Durham",
+   "Cases": 152
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000049",
+   "County": "Cheshire East",
+   "Cases": 238.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000049",
+   "County": "Cheshire East",
+   "Cases": 113.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000050",
+   "County": "Cheshire West and Chester",
+   "Cases": 266.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000050",
+   "County": "Cheshire West and Chester",
+   "Cases": 112.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000051",
+   "County": "Shropshire",
+   "Cases": 103.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000051",
+   "County": "Shropshire",
+   "Cases": 93.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000052",
+   "County": "Cornwall and Isles of Scilly",
+   "Cases": 99.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000052",
+   "County": "Cornwall and Isles of Scilly",
+   "Cases": 21.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000054",
+   "County": "Wiltshire",
+   "Cases": 156
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000054",
+   "County": "Wiltshire",
+   "Cases": 72.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000055",
+   "County": "Bedford",
+   "Cases": 637.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000055",
+   "County": "Bedford",
+   "Cases": 197.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000056",
+   "County": "Central Bedfordshire",
+   "Cases": 517.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000056",
+   "County": "Central Bedfordshire",
+   "Cases": 216.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000057",
+   "County": "Northumberland",
+   "Cases": 209.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000057",
+   "County": "Northumberland",
+   "Cases": 154.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000058",
+   "County": "Bournemouth, Christchurch and Poole",
+   "Cases": 224.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000058",
+   "County": "Bournemouth, Christchurch and Poole",
+   "Cases": 70.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E06000059",
+   "County": "Dorset",
+   "Cases": 123.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E06000059",
+   "County": "Dorset",
+   "Cases": 44.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000004",
+   "County": "Aylesbury Vale",
+   "Cases": 530.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000004",
+   "County": "Aylesbury Vale",
+   "Cases": 226.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000005",
+   "County": "Chiltern",
+   "Cases": 392.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000005",
+   "County": "Chiltern",
+   "Cases": 179.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000006",
+   "County": "South Bucks",
+   "Cases": 687.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000006",
+   "County": "South Bucks",
+   "Cases": 178.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000007",
+   "County": "Wycombe",
+   "Cases": 492.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000007",
+   "County": "Wycombe",
+   "Cases": 193.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000008",
+   "County": "Cambridge",
+   "Cases": 274.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000008",
+   "County": "Cambridge",
+   "Cases": 83.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000009",
+   "County": "East Cambridgeshire",
+   "Cases": 232.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000009",
+   "County": "East Cambridgeshire",
+   "Cases": 98
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000010",
+   "County": "Fenland",
+   "Cases": 208.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000010",
+   "County": "Fenland",
+   "Cases": 124.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000011",
+   "County": "Huntingdonshire",
+   "Cases": 216.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000011",
+   "County": "Huntingdonshire",
+   "Cases": 60.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000012",
+   "County": "South Cambridgeshire",
+   "Cases": 254.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000012",
+   "County": "South Cambridgeshire",
+   "Cases": 83.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000026",
+   "County": "Allerdale",
+   "Cases": 186.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000026",
+   "County": "Allerdale",
+   "Cases": 63.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000027",
+   "County": "Barrow-in-Furness",
+   "Cases": 99.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000027",
+   "County": "Barrow-in-Furness",
+   "Cases": 140.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000028",
+   "County": "Carlisle",
+   "Cases": 360.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000028",
+   "County": "Carlisle",
+   "Cases": 104
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000029",
+   "County": "Copeland",
+   "Cases": 79.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000029",
+   "County": "Copeland",
+   "Cases": 26.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000030",
+   "County": "Eden",
+   "Cases": 510.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000030",
+   "County": "Eden",
+   "Cases": 108.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000031",
+   "County": "South Lakeland",
+   "Cases": 177.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000031",
+   "County": "South Lakeland",
+   "Cases": 116.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000032",
+   "County": "Amber Valley",
+   "Cases": 332.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000032",
+   "County": "Amber Valley",
+   "Cases": 155.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000033",
+   "County": "Bolsover",
+   "Cases": 227.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000033",
+   "County": "Bolsover",
+   "Cases": 208.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000034",
+   "County": "Chesterfield",
+   "Cases": 181.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000034",
+   "County": "Chesterfield",
+   "Cases": 125.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000035",
+   "County": "Derbyshire Dales",
+   "Cases": 164.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000035",
+   "County": "Derbyshire Dales",
+   "Cases": 77.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000036",
+   "County": "Erewash",
+   "Cases": 183.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000036",
+   "County": "Erewash",
+   "Cases": 122.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000037",
+   "County": "High Peak",
+   "Cases": 158.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000037",
+   "County": "High Peak",
+   "Cases": 148.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000038",
+   "County": "North East Derbyshire",
+   "Cases": 198.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000038",
+   "County": "North East Derbyshire",
+   "Cases": 115.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000039",
+   "County": "South Derbyshire",
+   "Cases": 271.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000039",
+   "County": "South Derbyshire",
+   "Cases": 249.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000040",
+   "County": "East Devon",
+   "Cases": 151.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000040",
+   "County": "East Devon",
+   "Cases": 117.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000041",
+   "County": "Exeter",
+   "Cases": 162.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000041",
+   "County": "Exeter",
+   "Cases": 88.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000042",
+   "County": "Mid Devon",
+   "Cases": 142.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000042",
+   "County": "Mid Devon",
+   "Cases": 77.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000043",
+   "County": "North Devon",
+   "Cases": 156.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000043",
+   "County": "North Devon",
+   "Cases": 122.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000044",
+   "County": "South Hams",
+   "Cases": 91.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000044",
+   "County": "South Hams",
+   "Cases": 29.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000045",
+   "County": "Teignbridge",
+   "Cases": 137.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000045",
+   "County": "Teignbridge",
+   "Cases": 52.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000046",
+   "County": "Torridge",
+   "Cases": 101.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000046",
+   "County": "Torridge",
+   "Cases": 55.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000047",
+   "County": "West Devon",
+   "Cases": 207.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000047",
+   "County": "West Devon",
+   "Cases": 75.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000061",
+   "County": "Eastbourne",
+   "Cases": 480
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000061",
+   "County": "Eastbourne",
+   "Cases": 99.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000062",
+   "County": "Hastings",
+   "Cases": 1057.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000062",
+   "County": "Hastings",
+   "Cases": 396.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000063",
+   "County": "Lewes",
+   "Cases": 434.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000063",
+   "County": "Lewes",
+   "Cases": 75.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000064",
+   "County": "Rother",
+   "Cases": 685.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000064",
+   "County": "Rother",
+   "Cases": 261.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000065",
+   "County": "Wealden",
+   "Cases": 423.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000065",
+   "County": "Wealden",
+   "Cases": 138.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000066",
+   "County": "Basildon",
+   "Cases": 1070.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000066",
+   "County": "Basildon",
+   "Cases": 650.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000067",
+   "County": "Braintree",
+   "Cases": 865
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000067",
+   "County": "Braintree",
+   "Cases": 322.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000068",
+   "County": "Brentwood",
+   "Cases": 1419.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000068",
+   "County": "Brentwood",
+   "Cases": 419.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000069",
+   "County": "Castle Point",
+   "Cases": 1206.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000069",
+   "County": "Castle Point",
+   "Cases": 325.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000070",
+   "County": "Chelmsford",
+   "Cases": 870
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000070",
+   "County": "Chelmsford",
+   "Cases": 304.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000071",
+   "County": "Colchester",
+   "Cases": 414
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000071",
+   "County": "Colchester",
+   "Cases": 103.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000072",
+   "County": "Epping Forest",
+   "Cases": 1413.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000072",
+   "County": "Epping Forest",
+   "Cases": 448.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000073",
+   "County": "Harlow",
+   "Cases": 1013
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000073",
+   "County": "Harlow",
+   "Cases": 280.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000074",
+   "County": "Maldon",
+   "Cases": 759.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000074",
+   "County": "Maldon",
+   "Cases": 189.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000075",
+   "County": "Rochford",
+   "Cases": 1080.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000075",
+   "County": "Rochford",
+   "Cases": 298.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000076",
+   "County": "Tendring",
+   "Cases": 387.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000076",
+   "County": "Tendring",
+   "Cases": 105.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000077",
+   "County": "Uttlesford",
+   "Cases": 577.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000077",
+   "County": "Uttlesford",
+   "Cases": 140.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000078",
+   "County": "Cheltenham",
+   "Cases": 154.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000078",
+   "County": "Cheltenham",
+   "Cases": 101.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000079",
+   "County": "Cotswold",
+   "Cases": 232.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000079",
+   "County": "Cotswold",
+   "Cases": 45.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000080",
+   "County": "Forest of Dean",
+   "Cases": 245.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000080",
+   "County": "Forest of Dean",
+   "Cases": 187.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000081",
+   "County": "Gloucester",
+   "Cases": 288.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000081",
+   "County": "Gloucester",
+   "Cases": 223.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000082",
+   "County": "Stroud",
+   "Cases": 200.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000082",
+   "County": "Stroud",
+   "Cases": 125
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000083",
+   "County": "Tewkesbury",
+   "Cases": 192.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000083",
+   "County": "Tewkesbury",
+   "Cases": 90.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000084",
+   "County": "Basingstoke and Deane",
+   "Cases": 276.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000084",
+   "County": "Basingstoke and Deane",
+   "Cases": 98
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000085",
+   "County": "East Hampshire",
+   "Cases": 299.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000085",
+   "County": "East Hampshire",
+   "Cases": 76.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000086",
+   "County": "Eastleigh",
+   "Cases": 230.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000086",
+   "County": "Eastleigh",
+   "Cases": 61.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000087",
+   "County": "Fareham",
+   "Cases": 276.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000087",
+   "County": "Fareham",
+   "Cases": 98.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000088",
+   "County": "Gosport",
+   "Cases": 226.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000088",
+   "County": "Gosport",
+   "Cases": 130.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000089",
+   "County": "Hart",
+   "Cases": 320.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000089",
+   "County": "Hart",
+   "Cases": 107.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000090",
+   "County": "Havant",
+   "Cases": 482.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000090",
+   "County": "Havant",
+   "Cases": 187.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000091",
+   "County": "New Forest",
+   "Cases": 156
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000091",
+   "County": "New Forest",
+   "Cases": 79.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000092",
+   "County": "Rushmoor",
+   "Cases": 670.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000092",
+   "County": "Rushmoor",
+   "Cases": 173.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000093",
+   "County": "Test Valley",
+   "Cases": 237
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000093",
+   "County": "Test Valley",
+   "Cases": 52.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000094",
+   "County": "Winchester",
+   "Cases": 257.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000094",
+   "County": "Winchester",
+   "Cases": 54.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000095",
+   "County": "Broxbourne",
+   "Cases": 1120.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000095",
+   "County": "Broxbourne",
+   "Cases": 448.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000096",
+   "County": "Dacorum",
+   "Cases": 538.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000096",
+   "County": "Dacorum",
+   "Cases": 190.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000098",
+   "County": "Hertsmere",
+   "Cases": 910.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000098",
+   "County": "Hertsmere",
+   "Cases": 263.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000099",
+   "County": "North Hertfordshire",
+   "Cases": 351.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000099",
+   "County": "North Hertfordshire",
+   "Cases": 110.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000102",
+   "County": "Three Rivers",
+   "Cases": 801.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000102",
+   "County": "Three Rivers",
+   "Cases": 184.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000103",
+   "County": "Watford",
+   "Cases": 791.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000103",
+   "County": "Watford",
+   "Cases": 289.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000105",
+   "County": "Ashford",
+   "Cases": 805.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000105",
+   "County": "Ashford",
+   "Cases": 495.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000106",
+   "County": "Canterbury",
+   "Cases": 587.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000106",
+   "County": "Canterbury",
+   "Cases": 507.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000107",
+   "County": "Dartford",
+   "Cases": 942.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000107",
+   "County": "Dartford",
+   "Cases": 379.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000108",
+   "County": "Dover",
+   "Cases": 622.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000108",
+   "County": "Dover",
+   "Cases": 524.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000109",
+   "County": "Gravesham",
+   "Cases": 933.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000109",
+   "County": "Gravesham",
+   "Cases": 494.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000110",
+   "County": "Maidstone",
+   "Cases": 525.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000110",
+   "County": "Maidstone",
+   "Cases": 714.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000111",
+   "County": "Sevenoaks",
+   "Cases": 689
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000111",
+   "County": "Sevenoaks",
+   "Cases": 220.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000112",
+   "County": "Folkestone and Hythe",
+   "Cases": 688.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000112",
+   "County": "Folkestone and Hythe",
+   "Cases": 414.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000113",
+   "County": "Swale",
+   "Cases": 749.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000113",
+   "County": "Swale",
+   "Cases": 675
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000114",
+   "County": "Thanet",
+   "Cases": 546.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000114",
+   "County": "Thanet",
+   "Cases": 427
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000115",
+   "County": "Tonbridge and Malling",
+   "Cases": 666.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000115",
+   "County": "Tonbridge and Malling",
+   "Cases": 412.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000116",
+   "County": "Tunbridge Wells",
+   "Cases": 524.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000116",
+   "County": "Tunbridge Wells",
+   "Cases": 272.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000117",
+   "County": "Burnley",
+   "Cases": 493.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000117",
+   "County": "Burnley",
+   "Cases": 299.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000118",
+   "County": "Chorley",
+   "Cases": 230.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000118",
+   "County": "Chorley",
+   "Cases": 215.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000119",
+   "County": "Fylde",
+   "Cases": 174.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000119",
+   "County": "Fylde",
+   "Cases": 108.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000120",
+   "County": "Hyndburn",
+   "Cases": 269
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000120",
+   "County": "Hyndburn",
+   "Cases": 159.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000121",
+   "County": "Lancaster",
+   "Cases": 206.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000121",
+   "County": "Lancaster",
+   "Cases": 128
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000122",
+   "County": "Pendle",
+   "Cases": 425.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000122",
+   "County": "Pendle",
+   "Cases": 238.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000123",
+   "County": "Preston",
+   "Cases": 223.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000123",
+   "County": "Preston",
+   "Cases": 214.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000124",
+   "County": "Ribble Valley",
+   "Cases": 358
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000124",
+   "County": "Ribble Valley",
+   "Cases": 213.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000125",
+   "County": "Rossendale",
+   "Cases": 222.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000125",
+   "County": "Rossendale",
+   "Cases": 222.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000126",
+   "County": "South Ribble",
+   "Cases": 189.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000126",
+   "County": "South Ribble",
+   "Cases": 188.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000127",
+   "County": "West Lancashire",
+   "Cases": 214.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000127",
+   "County": "West Lancashire",
+   "Cases": 158.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000128",
+   "County": "Wyre",
+   "Cases": 173.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000128",
+   "County": "Wyre",
+   "Cases": 126.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000129",
+   "County": "Blaby",
+   "Cases": 232.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000129",
+   "County": "Blaby",
+   "Cases": 219.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000130",
+   "County": "Charnwood",
+   "Cases": 215.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000130",
+   "County": "Charnwood",
+   "Cases": 126.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000131",
+   "County": "Harborough",
+   "Cases": 259
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000131",
+   "County": "Harborough",
+   "Cases": 142.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000132",
+   "County": "Hinckley and Bosworth",
+   "Cases": 233.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000132",
+   "County": "Hinckley and Bosworth",
+   "Cases": 130.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000133",
+   "County": "Melton",
+   "Cases": 234.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000133",
+   "County": "Melton",
+   "Cases": 224.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000134",
+   "County": "North West Leicestershire",
+   "Cases": 220.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000134",
+   "County": "North West Leicestershire",
+   "Cases": 127.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000135",
+   "County": "Oadby and Wigston",
+   "Cases": 375.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000135",
+   "County": "Oadby and Wigston",
+   "Cases": 257.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000136",
+   "County": "Boston",
+   "Cases": 333.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000136",
+   "County": "Boston",
+   "Cases": 426.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000137",
+   "County": "East Lindsey",
+   "Cases": 131.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000137",
+   "County": "East Lindsey",
+   "Cases": 184.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000138",
+   "County": "Lincoln",
+   "Cases": 367.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000138",
+   "County": "Lincoln",
+   "Cases": 482.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000139",
+   "County": "North Kesteven",
+   "Cases": 273.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000139",
+   "County": "North Kesteven",
+   "Cases": 230.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000140",
+   "County": "South Holland",
+   "Cases": 214.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000140",
+   "County": "South Holland",
+   "Cases": 144.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000141",
+   "County": "South Kesteven",
+   "Cases": 311.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000141",
+   "County": "South Kesteven",
+   "Cases": 173.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000142",
+   "County": "West Lindsey",
+   "Cases": 294.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000142",
+   "County": "West Lindsey",
+   "Cases": 266.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000143",
+   "County": "Breckland",
+   "Cases": 255.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000143",
+   "County": "Breckland",
+   "Cases": 89.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000144",
+   "County": "Broadland",
+   "Cases": 305.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000144",
+   "County": "Broadland",
+   "Cases": 123.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000145",
+   "County": "Great Yarmouth",
+   "Cases": 232.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000145",
+   "County": "Great Yarmouth",
+   "Cases": 153
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000146",
+   "County": "King's Lynn and West Norfolk",
+   "Cases": 286
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000146",
+   "County": "King's Lynn and West Norfolk",
+   "Cases": 128.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000147",
+   "County": "North Norfolk",
+   "Cases": 246.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000147",
+   "County": "North Norfolk",
+   "Cases": 57.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000148",
+   "County": "Norwich",
+   "Cases": 327.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000148",
+   "County": "Norwich",
+   "Cases": 130.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000149",
+   "County": "South Norfolk",
+   "Cases": 272.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000149",
+   "County": "South Norfolk",
+   "Cases": 98
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000150",
+   "County": "Corby",
+   "Cases": 218.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000150",
+   "County": "Corby",
+   "Cases": 99.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000151",
+   "County": "Daventry",
+   "Cases": 266.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000151",
+   "County": "Daventry",
+   "Cases": 96.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000152",
+   "County": "East Northamptonshire",
+   "Cases": 235.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000152",
+   "County": "East Northamptonshire",
+   "Cases": 133.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000153",
+   "County": "Kettering",
+   "Cases": 238.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000153",
+   "County": "Kettering",
+   "Cases": 98.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000154",
+   "County": "Northampton",
+   "Cases": 392.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000154",
+   "County": "Northampton",
+   "Cases": 215
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000155",
+   "County": "South Northamptonshire",
+   "Cases": 378.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000155",
+   "County": "South Northamptonshire",
+   "Cases": 127
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000156",
+   "County": "Wellingborough",
+   "Cases": 319.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000156",
+   "County": "Wellingborough",
+   "Cases": 146.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000163",
+   "County": "Craven",
+   "Cases": 136.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000163",
+   "County": "Craven",
+   "Cases": 112
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000164",
+   "County": "Hambleton",
+   "Cases": 247.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000164",
+   "County": "Hambleton",
+   "Cases": 48
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000165",
+   "County": "Harrogate",
+   "Cases": 118.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000165",
+   "County": "Harrogate",
+   "Cases": 79
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000166",
+   "County": "Richmondshire",
+   "Cases": 184.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000166",
+   "County": "Richmondshire",
+   "Cases": 81.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000167",
+   "County": "Ryedale",
+   "Cases": 166.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000167",
+   "County": "Ryedale",
+   "Cases": 72.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000168",
+   "County": "Scarborough",
+   "Cases": 238.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000168",
+   "County": "Scarborough",
+   "Cases": 160
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000169",
+   "County": "Selby",
+   "Cases": 174.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000169",
+   "County": "Selby",
+   "Cases": 112.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000170",
+   "County": "Ashfield",
+   "Cases": 278.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000170",
+   "County": "Ashfield",
+   "Cases": 168.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000171",
+   "County": "Bassetlaw",
+   "Cases": 238.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000171",
+   "County": "Bassetlaw",
+   "Cases": 223.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000172",
+   "County": "Broxtowe",
+   "Cases": 201.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000172",
+   "County": "Broxtowe",
+   "Cases": 124.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000173",
+   "County": "Gedling",
+   "Cases": 270.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000173",
+   "County": "Gedling",
+   "Cases": 184.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000174",
+   "County": "Mansfield",
+   "Cases": 242.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000174",
+   "County": "Mansfield",
+   "Cases": 168.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000175",
+   "County": "Newark and Sherwood",
+   "Cases": 221.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000175",
+   "County": "Newark and Sherwood",
+   "Cases": 168.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000176",
+   "County": "Rushcliffe",
+   "Cases": 227.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000176",
+   "County": "Rushcliffe",
+   "Cases": 91.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000177",
+   "County": "Cherwell",
+   "Cases": 475.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000177",
+   "County": "Cherwell",
+   "Cases": 126.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000178",
+   "County": "Oxford",
+   "Cases": 368.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000178",
+   "County": "Oxford",
+   "Cases": 168.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000179",
+   "County": "South Oxfordshire",
+   "Cases": 310.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000179",
+   "County": "South Oxfordshire",
+   "Cases": 105.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000180",
+   "County": "Vale of White Horse",
+   "Cases": 258.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000180",
+   "County": "Vale of White Horse",
+   "Cases": 83.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000181",
+   "County": "West Oxfordshire",
+   "Cases": 242.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000181",
+   "County": "West Oxfordshire",
+   "Cases": 75
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000187",
+   "County": "Mendip",
+   "Cases": 198.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000187",
+   "County": "Mendip",
+   "Cases": 96.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000188",
+   "County": "Sedgemoor",
+   "Cases": 292.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000188",
+   "County": "Sedgemoor",
+   "Cases": 114.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000189",
+   "County": "South Somerset",
+   "Cases": 186.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000189",
+   "County": "South Somerset",
+   "Cases": 126.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000192",
+   "County": "Cannock Chase",
+   "Cases": 287.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000192",
+   "County": "Cannock Chase",
+   "Cases": 207.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000193",
+   "County": "East Staffordshire",
+   "Cases": 331.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000193",
+   "County": "East Staffordshire",
+   "Cases": 282.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000194",
+   "County": "Lichfield",
+   "Cases": 282.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000194",
+   "County": "Lichfield",
+   "Cases": 151.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000195",
+   "County": "Newcastle-under-Lyme",
+   "Cases": 221
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000195",
+   "County": "Newcastle-under-Lyme",
+   "Cases": 182.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000196",
+   "County": "South Staffordshire",
+   "Cases": 297.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000196",
+   "County": "South Staffordshire",
+   "Cases": 157.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000197",
+   "County": "Stafford",
+   "Cases": 262.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000197",
+   "County": "Stafford",
+   "Cases": 252.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000198",
+   "County": "Staffordshire Moorlands",
+   "Cases": 240.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000198",
+   "County": "Staffordshire Moorlands",
+   "Cases": 211.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000199",
+   "County": "Tamworth",
+   "Cases": 206
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000199",
+   "County": "Tamworth",
+   "Cases": 123.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000200",
+   "County": "Babergh",
+   "Cases": 364
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000200",
+   "County": "Babergh",
+   "Cases": 88
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000202",
+   "County": "Ipswich",
+   "Cases": 302.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000202",
+   "County": "Ipswich",
+   "Cases": 199.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000203",
+   "County": "Mid Suffolk",
+   "Cases": 190.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000203",
+   "County": "Mid Suffolk",
+   "Cases": 61.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000207",
+   "County": "Elmbridge",
+   "Cases": 618.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000207",
+   "County": "Elmbridge",
+   "Cases": 154.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000208",
+   "County": "Epsom and Ewell",
+   "Cases": 638.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000208",
+   "County": "Epsom and Ewell",
+   "Cases": 188.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000209",
+   "County": "Guildford",
+   "Cases": 424.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000209",
+   "County": "Guildford",
+   "Cases": 140.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000210",
+   "County": "Mole Valley",
+   "Cases": 447
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000210",
+   "County": "Mole Valley",
+   "Cases": 124.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000211",
+   "County": "Reigate and Banstead",
+   "Cases": 530.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000211",
+   "County": "Reigate and Banstead",
+   "Cases": 131.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000212",
+   "County": "Runnymede",
+   "Cases": 441.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000212",
+   "County": "Runnymede",
+   "Cases": 215.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000213",
+   "County": "Spelthorne",
+   "Cases": 663
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000213",
+   "County": "Spelthorne",
+   "Cases": 217.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000214",
+   "County": "Surrey Heath",
+   "Cases": 519.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000214",
+   "County": "Surrey Heath",
+   "Cases": 198.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000215",
+   "County": "Tandridge",
+   "Cases": 668.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000215",
+   "County": "Tandridge",
+   "Cases": 211.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000216",
+   "County": "Waverley",
+   "Cases": 367.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000216",
+   "County": "Waverley",
+   "Cases": 118.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000217",
+   "County": "Woking",
+   "Cases": 553.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000217",
+   "County": "Woking",
+   "Cases": 263.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000218",
+   "County": "North Warwickshire",
+   "Cases": 197.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000218",
+   "County": "North Warwickshire",
+   "Cases": 163.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000219",
+   "County": "Nuneaton and Bedworth",
+   "Cases": 275.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000219",
+   "County": "Nuneaton and Bedworth",
+   "Cases": 163.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000220",
+   "County": "Rugby",
+   "Cases": 334.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000220",
+   "County": "Rugby",
+   "Cases": 145
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000221",
+   "County": "Stratford-on-Avon",
+   "Cases": 184.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000221",
+   "County": "Stratford-on-Avon",
+   "Cases": 86.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000222",
+   "County": "Warwick",
+   "Cases": 235.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000222",
+   "County": "Warwick",
+   "Cases": 183.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000223",
+   "County": "Adur",
+   "Cases": 384.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000223",
+   "County": "Adur",
+   "Cases": 79.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000224",
+   "County": "Arun",
+   "Cases": 323.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000224",
+   "County": "Arun",
+   "Cases": 101.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000225",
+   "County": "Chichester",
+   "Cases": 236.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000225",
+   "County": "Chichester",
+   "Cases": 80.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000226",
+   "County": "Crawley",
+   "Cases": 491.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000226",
+   "County": "Crawley",
+   "Cases": 115.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000227",
+   "County": "Horsham",
+   "Cases": 249
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000227",
+   "County": "Horsham",
+   "Cases": 97.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000228",
+   "County": "Mid Sussex",
+   "Cases": 376.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000228",
+   "County": "Mid Sussex",
+   "Cases": 113.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000229",
+   "County": "Worthing",
+   "Cases": 270.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000229",
+   "County": "Worthing",
+   "Cases": 66.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000234",
+   "County": "Bromsgrove",
+   "Cases": 290.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000234",
+   "County": "Bromsgrove",
+   "Cases": 226.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000235",
+   "County": "Malvern Hills",
+   "Cases": 132.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000235",
+   "County": "Malvern Hills",
+   "Cases": 40.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000236",
+   "County": "Redditch",
+   "Cases": 221.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000236",
+   "County": "Redditch",
+   "Cases": 118.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000237",
+   "County": "Worcester",
+   "Cases": 205.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000237",
+   "County": "Worcester",
+   "Cases": 68.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000238",
+   "County": "Wychavon",
+   "Cases": 222.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000238",
+   "County": "Wychavon",
+   "Cases": 87.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000239",
+   "County": "Wyre Forest",
+   "Cases": 195.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000239",
+   "County": "Wyre Forest",
+   "Cases": 118.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000240",
+   "County": "St Albans",
+   "Cases": 565.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000240",
+   "County": "St Albans",
+   "Cases": 131.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000241",
+   "County": "Welwyn Hatfield",
+   "Cases": 515.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000241",
+   "County": "Welwyn Hatfield",
+   "Cases": 139.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000242",
+   "County": "East Hertfordshire",
+   "Cases": 575.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000242",
+   "County": "East Hertfordshire",
+   "Cases": 166.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000243",
+   "County": "Stevenage",
+   "Cases": 523.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000243",
+   "County": "Stevenage",
+   "Cases": 116.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000244",
+   "County": "East Suffolk",
+   "Cases": 184.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000244",
+   "County": "East Suffolk",
+   "Cases": 78.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000245",
+   "County": "West Suffolk",
+   "Cases": 253
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000245",
+   "County": "West Suffolk",
+   "Cases": 64.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E07000246",
+   "County": "Somerset West and Taunton",
+   "Cases": 242.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E07000246",
+   "County": "Somerset West and Taunton",
+   "Cases": 81.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000001",
+   "County": "Bolton",
+   "Cases": 162.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000001",
+   "County": "Bolton",
+   "Cases": 142.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000002",
+   "County": "Bury",
+   "Cases": 246.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000002",
+   "County": "Bury",
+   "Cases": 209.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000003",
+   "County": "Manchester",
+   "Cases": 202.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000003",
+   "County": "Manchester",
+   "Cases": 178.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000004",
+   "County": "Oldham",
+   "Cases": 196.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000004",
+   "County": "Oldham",
+   "Cases": 172.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000005",
+   "County": "Rochdale",
+   "Cases": 225.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000005",
+   "County": "Rochdale",
+   "Cases": 203.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000006",
+   "County": "Salford",
+   "Cases": 224.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000006",
+   "County": "Salford",
+   "Cases": 139.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000007",
+   "County": "Stockport",
+   "Cases": 209.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000007",
+   "County": "Stockport",
+   "Cases": 112.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000008",
+   "County": "Tameside",
+   "Cases": 176.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000008",
+   "County": "Tameside",
+   "Cases": 97.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000009",
+   "County": "Trafford",
+   "Cases": 243.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000009",
+   "County": "Trafford",
+   "Cases": 105.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000010",
+   "County": "Wigan",
+   "Cases": 182.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000010",
+   "County": "Wigan",
+   "Cases": 176.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000011",
+   "County": "Knowsley",
+   "Cases": 203.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000011",
+   "County": "Knowsley",
+   "Cases": 98.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000012",
+   "County": "Liverpool",
+   "Cases": 206.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000012",
+   "County": "Liverpool",
+   "Cases": 92.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000013",
+   "County": "St. Helens",
+   "Cases": 198.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000013",
+   "County": "St. Helens",
+   "Cases": 122.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000014",
+   "County": "Sefton",
+   "Cases": 188.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000014",
+   "County": "Sefton",
+   "Cases": 66.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000015",
+   "County": "Wirral",
+   "Cases": 219.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000015",
+   "County": "Wirral",
+   "Cases": 66
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000016",
+   "County": "Barnsley",
+   "Cases": 202.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000016",
+   "County": "Barnsley",
+   "Cases": 136.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000017",
+   "County": "Doncaster",
+   "Cases": 221.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000017",
+   "County": "Doncaster",
+   "Cases": 186
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000018",
+   "County": "Rotherham",
+   "Cases": 218.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000018",
+   "County": "Rotherham",
+   "Cases": 221.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000019",
+   "County": "Sheffield",
+   "Cases": 175.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000019",
+   "County": "Sheffield",
+   "Cases": 138.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000021",
+   "County": "Newcastle upon Tyne",
+   "Cases": 147.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000021",
+   "County": "Newcastle upon Tyne",
+   "Cases": 126.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000022",
+   "County": "North Tyneside",
+   "Cases": 169.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000022",
+   "County": "North Tyneside",
+   "Cases": 126
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000023",
+   "County": "South Tyneside",
+   "Cases": 241.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000023",
+   "County": "South Tyneside",
+   "Cases": 290.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000024",
+   "County": "Sunderland",
+   "Cases": 204.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000024",
+   "County": "Sunderland",
+   "Cases": 155.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000025",
+   "County": "Birmingham",
+   "Cases": 332.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000025",
+   "County": "Birmingham",
+   "Cases": 205.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000026",
+   "County": "Coventry",
+   "Cases": 251.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000026",
+   "County": "Coventry",
+   "Cases": 153.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000027",
+   "County": "Dudley",
+   "Cases": 299.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000027",
+   "County": "Dudley",
+   "Cases": 201.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000028",
+   "County": "Sandwell",
+   "Cases": 352
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000028",
+   "County": "Sandwell",
+   "Cases": 195.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000029",
+   "County": "Solihull",
+   "Cases": 260.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000029",
+   "County": "Solihull",
+   "Cases": 147.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000030",
+   "County": "Walsall",
+   "Cases": 312.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000030",
+   "County": "Walsall",
+   "Cases": 173
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000031",
+   "County": "Wolverhampton",
+   "Cases": 432.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000031",
+   "County": "Wolverhampton",
+   "Cases": 269.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000032",
+   "County": "Bradford",
+   "Cases": 185.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000032",
+   "County": "Bradford",
+   "Cases": 174
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000033",
+   "County": "Calderdale",
+   "Cases": 175
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000033",
+   "County": "Calderdale",
+   "Cases": 165
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000034",
+   "County": "Kirklees",
+   "Cases": 176.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000034",
+   "County": "Kirklees",
+   "Cases": 162.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000035",
+   "County": "Leeds",
+   "Cases": 189.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000035",
+   "County": "Leeds",
+   "Cases": 136.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000036",
+   "County": "Wakefield",
+   "Cases": 184.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000036",
+   "County": "Wakefield",
+   "Cases": 160.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E08000037",
+   "County": "Gateshead",
+   "Cases": 249.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E08000037",
+   "County": "Gateshead",
+   "Cases": 93.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000002",
+   "County": "Barking and Dagenham",
+   "Cases": 1060.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000002",
+   "County": "Barking and Dagenham",
+   "Cases": 443.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000003",
+   "County": "Barnet",
+   "Cases": 756.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000003",
+   "County": "Barnet",
+   "Cases": 212.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000004",
+   "County": "Bexley",
+   "Cases": 1093.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000004",
+   "County": "Bexley",
+   "Cases": 360.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000005",
+   "County": "Brent",
+   "Cases": 674.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000005",
+   "County": "Brent",
+   "Cases": 217.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000006",
+   "County": "Bromley",
+   "Cases": 884
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000006",
+   "County": "Bromley",
+   "Cases": 295.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000007",
+   "County": "Camden",
+   "Cases": 517.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000007",
+   "County": "Camden",
+   "Cases": 146.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000008",
+   "County": "Croydon",
+   "Cases": 832.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000008",
+   "County": "Croydon",
+   "Cases": 246.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000009",
+   "County": "Ealing",
+   "Cases": 659.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000009",
+   "County": "Ealing",
+   "Cases": 198.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000010",
+   "County": "Enfield",
+   "Cases": 999.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000010",
+   "County": "Enfield",
+   "Cases": 389.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000011",
+   "County": "Greenwich",
+   "Cases": 756.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000011",
+   "County": "Greenwich",
+   "Cases": 275.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000012",
+   "County": "Hackney and City of London",
+   "Cases": 806.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000012",
+   "County": "Hackney and City of London",
+   "Cases": 256.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000013",
+   "County": "Hammersmith and Fulham",
+   "Cases": 637.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000013",
+   "County": "Hammersmith and Fulham",
+   "Cases": 176.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000014",
+   "County": "Haringey",
+   "Cases": 843.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000014",
+   "County": "Haringey",
+   "Cases": 269.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000015",
+   "County": "Harrow",
+   "Cases": 748.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000015",
+   "County": "Harrow",
+   "Cases": 270.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000016",
+   "County": "Havering",
+   "Cases": 1213.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000016",
+   "County": "Havering",
+   "Cases": 546.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000017",
+   "County": "Hillingdon",
+   "Cases": 773.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000017",
+   "County": "Hillingdon",
+   "Cases": 225.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000018",
+   "County": "Hounslow",
+   "Cases": 737.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000018",
+   "County": "Hounslow",
+   "Cases": 223.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000019",
+   "County": "Islington",
+   "Cases": 652
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000019",
+   "County": "Islington",
+   "Cases": 200
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000020",
+   "County": "Kensington and Chelsea",
+   "Cases": 531
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000020",
+   "County": "Kensington and Chelsea",
+   "Cases": 146
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000021",
+   "County": "Kingston upon Thames",
+   "Cases": 642.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000021",
+   "County": "Kingston upon Thames",
+   "Cases": 289
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000022",
+   "County": "Lambeth",
+   "Cases": 757.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000022",
+   "County": "Lambeth",
+   "Cases": 214.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000023",
+   "County": "Lewisham",
+   "Cases": 723.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000023",
+   "County": "Lewisham",
+   "Cases": 216.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000024",
+   "County": "Merton",
+   "Cases": 840
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000024",
+   "County": "Merton",
+   "Cases": 293.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000025",
+   "County": "Newham",
+   "Cases": 948.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000025",
+   "County": "Newham",
+   "Cases": 375.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000026",
+   "County": "Redbridge",
+   "Cases": 1114.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000026",
+   "County": "Redbridge",
+   "Cases": 445.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000027",
+   "County": "Richmond upon Thames",
+   "Cases": 614.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000027",
+   "County": "Richmond upon Thames",
+   "Cases": 164.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000028",
+   "County": "Southwark",
+   "Cases": 739.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000028",
+   "County": "Southwark",
+   "Cases": 211.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000029",
+   "County": "Sutton",
+   "Cases": 783.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000029",
+   "County": "Sutton",
+   "Cases": 268.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000030",
+   "County": "Tower Hamlets",
+   "Cases": 973.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000030",
+   "County": "Tower Hamlets",
+   "Cases": 344.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000031",
+   "County": "Waltham Forest",
+   "Cases": 954.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000031",
+   "County": "Waltham Forest",
+   "Cases": 411.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000032",
+   "County": "Wandsworth",
+   "Cases": 779.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000032",
+   "County": "Wandsworth",
+   "Cases": 204.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "E09000033",
+   "County": "Westminster",
+   "Cases": 525.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "E09000033",
+   "County": "Westminster",
+   "Cases": 131.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "N09000001",
+   "County": "Antrim and Newtownabbey",
+   "Cases": 232
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "N09000001",
+   "County": "Antrim and Newtownabbey",
+   "Cases": 152.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "N09000002",
+   "County": "Armagh City, Banbridge and Craigavon",
+   "Cases": 287.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "N09000002",
+   "County": "Armagh City, Banbridge and Craigavon",
+   "Cases": 150.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "N09000003",
+   "County": "Belfast",
+   "Cases": 197.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "N09000003",
+   "County": "Belfast",
+   "Cases": 106
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "N09000004",
+   "County": "Causeway Coast and Glens",
+   "Cases": 219.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "N09000004",
+   "County": "Causeway Coast and Glens",
+   "Cases": 196.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "N09000005",
+   "County": "Derry City and Strabane",
+   "Cases": 286.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "N09000005",
+   "County": "Derry City and Strabane",
+   "Cases": 177.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "N09000006",
+   "County": "Fermanagh and Omagh",
+   "Cases": 281.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "N09000006",
+   "County": "Fermanagh and Omagh",
+   "Cases": 190.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "N09000007",
+   "County": "Lisburn and Castlereagh",
+   "Cases": 187
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "N09000007",
+   "County": "Lisburn and Castlereagh",
+   "Cases": 137
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "N09000008",
+   "County": "Mid and East Antrim",
+   "Cases": 305.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "N09000008",
+   "County": "Mid and East Antrim",
+   "Cases": 262.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "N09000009",
+   "County": "Mid Ulster",
+   "Cases": 261.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "N09000009",
+   "County": "Mid Ulster",
+   "Cases": 187.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "N09000010",
+   "County": "Newry, Mourne and Down",
+   "Cases": 223.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "N09000010",
+   "County": "Newry, Mourne and Down",
+   "Cases": 186.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "N09000011",
+   "County": "Ards and North Down",
+   "Cases": 120.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "N09000011",
+   "County": "Ards and North Down",
+   "Cases": 88.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000005",
+   "County": "Clackmannanshire",
+   "Cases": 83.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000005",
+   "County": "Clackmannanshire",
+   "Cases": 196
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000006",
+   "County": "Dumfries and Galloway",
+   "Cases": 65.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000006",
+   "County": "Dumfries and Galloway",
+   "Cases": 23.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000008",
+   "County": "East Ayrshire",
+   "Cases": 198.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000008",
+   "County": "East Ayrshire",
+   "Cases": 158.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000010",
+   "County": "East Lothian",
+   "Cases": 129.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000010",
+   "County": "East Lothian",
+   "Cases": 121.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000011",
+   "County": "East Renfrewshire",
+   "Cases": 165.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000011",
+   "County": "East Renfrewshire",
+   "Cases": 127.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000013",
+   "County": "Comhairle nan Eilean Siar",
+   "Cases": 15
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000013",
+   "County": "Comhairle nan Eilean Siar",
+   "Cases": 15
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000014",
+   "County": "Falkirk",
+   "Cases": 105
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000014",
+   "County": "Falkirk",
+   "Cases": 101.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000017",
+   "County": "Highland",
+   "Cases": 50.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000017",
+   "County": "Highland",
+   "Cases": 15.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000018",
+   "County": "Inverclyde",
+   "Cases": 147.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000018",
+   "County": "Inverclyde",
+   "Cases": 68.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000019",
+   "County": "Midlothian",
+   "Cases": 125.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000019",
+   "County": "Midlothian",
+   "Cases": 128.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000020",
+   "County": "Moray",
+   "Cases": 58.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000020",
+   "County": "Moray",
+   "Cases": 20.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000021",
+   "County": "North Ayrshire",
+   "Cases": 181.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000021",
+   "County": "North Ayrshire",
+   "Cases": 168.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000023",
+   "County": "Orkney Islands",
+   "Cases": 0
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000023",
+   "County": "Orkney Islands",
+   "Cases": 0
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000026",
+   "County": "Scottish Borders",
+   "Cases": 132.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000026",
+   "County": "Scottish Borders",
+   "Cases": 63.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000027",
+   "County": "Shetland Islands",
+   "Cases": 43.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000027",
+   "County": "Shetland Islands",
+   "Cases": 0
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000028",
+   "County": "South Ayrshire",
+   "Cases": 98.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000028",
+   "County": "South Ayrshire",
+   "Cases": 110.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000029",
+   "County": "South Lanarkshire",
+   "Cases": 172.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000029",
+   "County": "South Lanarkshire",
+   "Cases": 131.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000030",
+   "County": "Stirling",
+   "Cases": 84.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000030",
+   "County": "Stirling",
+   "Cases": 95.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000033",
+   "County": "Aberdeen City",
+   "Cases": 185
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000033",
+   "County": "Aberdeen City",
+   "Cases": 117.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000034",
+   "County": "Aberdeenshire",
+   "Cases": 135.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000034",
+   "County": "Aberdeenshire",
+   "Cases": 83.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000035",
+   "County": "Argyll and Bute",
+   "Cases": 45.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000035",
+   "County": "Argyll and Bute",
+   "Cases": 33.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000036",
+   "County": "City of Edinburgh",
+   "Cases": 145.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000036",
+   "County": "City of Edinburgh",
+   "Cases": 96.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000038",
+   "County": "Renfrewshire",
+   "Cases": 183.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000038",
+   "County": "Renfrewshire",
+   "Cases": 129.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000039",
+   "County": "West Dunbartonshire",
+   "Cases": 140.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000039",
+   "County": "West Dunbartonshire",
+   "Cases": 75.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000040",
+   "County": "West Lothian",
+   "Cases": 96.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000040",
+   "County": "West Lothian",
+   "Cases": 114.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000041",
+   "County": "Angus",
+   "Cases": 89.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000041",
+   "County": "Angus",
+   "Cases": 63.7
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000042",
+   "County": "Dundee City",
+   "Cases": 186.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000042",
+   "County": "Dundee City",
+   "Cases": 130.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000045",
+   "County": "East Dunbartonshire",
+   "Cases": 127.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000045",
+   "County": "East Dunbartonshire",
+   "Cases": 101.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000047",
+   "County": "Fife",
+   "Cases": 115.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000047",
+   "County": "Fife",
+   "Cases": 126.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000048",
+   "County": "Perth and Kinross",
+   "Cases": 131.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000048",
+   "County": "Perth and Kinross",
+   "Cases": 84.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000049",
+   "County": "Glasgow City",
+   "Cases": 170.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000049",
+   "County": "Glasgow City",
+   "Cases": 146.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "S12000050",
+   "County": "North Lanarkshire",
+   "Cases": 169.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "S12000050",
+   "County": "North Lanarkshire",
+   "Cases": 139.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000001",
+   "County": "Isle of Anglesey",
+   "Cases": 81.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000001",
+   "County": "Isle of Anglesey",
+   "Cases": 37.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000002",
+   "County": "Gwynedd",
+   "Cases": 78.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000002",
+   "County": "Gwynedd",
+   "Cases": 55.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000003",
+   "County": "Conwy",
+   "Cases": 136.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000003",
+   "County": "Conwy",
+   "Cases": 95.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000004",
+   "County": "Denbighshire",
+   "Cases": 221.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000004",
+   "County": "Denbighshire",
+   "Cases": 135.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000005",
+   "County": "Flintshire",
+   "Cases": 347.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000005",
+   "County": "Flintshire",
+   "Cases": 218.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000006",
+   "County": "Wrexham",
+   "Cases": 592.8
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000006",
+   "County": "Wrexham",
+   "Cases": 266.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000008",
+   "County": "Ceredigion",
+   "Cases": 180.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000008",
+   "County": "Ceredigion",
+   "Cases": 187.1
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000009",
+   "County": "Pembrokeshire",
+   "Cases": 193.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000009",
+   "County": "Pembrokeshire",
+   "Cases": 192.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000010",
+   "County": "Carmarthenshire",
+   "Cases": 493.7
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000010",
+   "County": "Carmarthenshire",
+   "Cases": 499.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000011",
+   "County": "Swansea",
+   "Cases": 516.2
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000011",
+   "County": "Swansea",
+   "Cases": 716.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000012",
+   "County": "Neath Port Talbot",
+   "Cases": 724.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000012",
+   "County": "Neath Port Talbot",
+   "Cases": 802.4
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000013",
+   "County": "Bridgend",
+   "Cases": 949.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000013",
+   "County": "Bridgend",
+   "Cases": 777.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000014",
+   "County": "Vale of Glamorgan",
+   "Cases": 592.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000014",
+   "County": "Vale of Glamorgan",
+   "Cases": 376.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000015",
+   "County": "Cardiff",
+   "Cases": 548.6
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000015",
+   "County": "Cardiff",
+   "Cases": 529.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000016",
+   "County": "Rhondda Cynon Taf",
+   "Cases": 661.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000016",
+   "County": "Rhondda Cynon Taf",
+   "Cases": 676.9
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000018",
+   "County": "Caerphilly",
+   "Cases": 596.4
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000018",
+   "County": "Caerphilly",
+   "Cases": 689.8
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000019",
+   "County": "Blaenau Gwent",
+   "Cases": 740
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000019",
+   "County": "Blaenau Gwent",
+   "Cases": 698.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000020",
+   "County": "Torfaen",
+   "Cases": 610.9
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000020",
+   "County": "Torfaen",
+   "Cases": 588.5
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000021",
+   "County": "Monmouthshire",
+   "Cases": 353.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000021",
+   "County": "Monmouthshire",
+   "Cases": 355.2
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000022",
+   "County": "Newport",
+   "Cases": 613.5
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000022",
+   "County": "Newport",
+   "Cases": 730.6
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000023",
+   "County": "Powys",
+   "Cases": 159.3
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000023",
+   "County": "Powys",
+   "Cases": 153.3
+ },
+ {
+   "Date": "24/12/2020",
+   "Area Code": "W06000024",
+   "County": "Merthyr Tydfil",
+   "Cases": 895.1
+ },
+ {
+   "Date": "10/12/2020",
+   "Area Code": "W06000024",
+   "County": "Merthyr Tydfil",
+   "Cases": 926.6
+ }
+]
